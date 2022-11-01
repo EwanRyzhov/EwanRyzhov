@@ -1,6 +1,6 @@
 - Hi there, I’m @EwanRyzhov
 
-- I’m currently learning Data Science and Machine Lerning
+- I’m currently learning Data Science and Machine Learning
 - 📫 E-mail: ryjov.ewan@yandex.ru
 
 <!---
